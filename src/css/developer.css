@@ -1,0 +1,42 @@
+.form-control{
+    background-color: aliceblue;
+}
+
+.form-control::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    opacity: 0.5;
+}
+.form-control.mand,
+.re-select.mand div[class*='-control'] {
+    border: 1px solid #dd4b39 !important;
+}
+.form-control {
+    height: calc(1.5em + 0.75rem + 2px) !important;
+}
+.errorstyle{
+    color: #dd4b39 !important;
+}
+.fire-base-form{
+    border: 1px solid beige;
+}
+.fire-base-form .button-fields:not(:first-child){
+    margin-left: 8px;
+}
+.button-fields{
+    justify-content: end;
+}
+/* .ml-8{
+    margin-left: 8px;
+} */
+.m-t-5{
+    margin-top: 5px;
+}
+.text-right{
+    text-align: right;
+}
+label{
+    float: left;
+}
+body{
+    background: linear-gradient(135deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
