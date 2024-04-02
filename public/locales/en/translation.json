@@ -1,0 +1,21 @@
+{
+    "hello": "Hello",
+    "first-name": "First Name",
+    "last-name": "Last Name",
+    "email": "Email",
+    "password": "Password",
+    "confirm-password": "<PASSWORD>",
+    "sign-up": "Sign Up",
+    "first-name-required":"First Name Required",
+    "last-name-required":"Last Name Required",
+    "email-required":"Email Required",
+    "password-required":"Password Required",
+    "confirm-password-required":"Confirm Password Required",
+    "sign-up-required":"Sign Up Required",
+    "user-name-required":"User Name Required",
+    "save":"Save",
+    "cancel":"Cancel",
+    "update":"Update",
+    "delete":"Delete",
+    "actions":"Actions"
+}
